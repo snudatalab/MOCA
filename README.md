@@ -36,3 +36,16 @@ You can reproduce the results in the paper by running the demo script while chan
 
 ## References
 The codes are written based on the `mltu` package (https://github.com/pythonlessons/mltu).
+
+## Reference
+If you use this code, please cite the following paper.
+```shell
+@inproceedings{kim2024accurate,
+  title={Accurate Semi-supervised Automatic Speech Recognition via Multi-hypotheses-Based Curriculum Learning},
+  author={Kim, Junghun and Park, Ka Hyun and Kang, U},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={40--52},
+  year={2024},
+  organization={Springer}
+}
+```
