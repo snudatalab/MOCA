@@ -1,12 +1,18 @@
 """
-Multi-hypotheses-based Curriculum Learning for Semi-supervised Automatic Speech Recognition
+Accurate Semi-supervised Automatic Speech Recognition via Multi-hypotheses-based Curriculum Learning (PAKDD 2024)
+Accurate Semi-supervised Automatic Speech Recognition for Ordinary and Characterized Speeches via Multi-hypotheses-based Curriculum Learning (PLOS ONE 2025)
+
+Authors:
+- Junghun Kim (bandalg97@snu.ac.kr), Seoul National University
+- Ka Hyun Park (kahyun.park@snu.ac.kr), Seoul National University
+- U Kang (ukang@snu.ac.kr), Seoul National University
 
 This software is free of charge under research purposes.
+
 For commercial purposes, please contact the authors.
 
--------------------------------------------------------------------------
-File: configs.py
- - configuration for training
+configs.py
+    - configuration for training
 """
 
 
